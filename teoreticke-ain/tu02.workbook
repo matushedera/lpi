@@ -170,16 +170,6 @@
         "ids": [],
         "entities": {}
       }
-    },
-    "24": {
-      "id": 24,
-      "type": "structureExplorer",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
     }
   },
   "cellsOrder": [
@@ -193,7 +183,6 @@
     12,
     6,
     13,
-    24,
     8,
     2,
     3,
